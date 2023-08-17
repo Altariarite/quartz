@@ -7,7 +7,9 @@ enableToc: false
 
 You've stumbled upon Altaria's little digital garden. 
 
-Read about [[computers]], [[investing]],  [[music]], [[psychology]]. Or just search whatever you like!
+Read about [[computers]], [[investing]],  [[music]], [[psychology]], [[books]].  Perhaps you like a more people-oriented approach? Here are [[my heros]].
+
+Or just search whatever you like!
 
 Here are some of my favourite notes:
 
