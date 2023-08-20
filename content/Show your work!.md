@@ -9,3 +9,5 @@ title: "Show Your Work!"
 [[Be a fan first]]
 
 [[Don't quit your show]]
+
+[[Chain Smoke]]
