@@ -10,7 +10,7 @@ title: "My heros"
 
 [thi.ng](https://thi.ng/). I am going through his workshops on clojure and visualization and I learned a lot
 
-[[Charlie Munger]]. I wrote a note about his "latticework of models" [[查理芒格的思维格栅]] and it's one of my favourites. It is a life-long learning process.
+[[Charlie Munger]]. I wrote a note about his "latticework of models" [[202504110012 查理芒格的思维格栅]] and it's one of my favourites. It is a life-long learning process.
 
 [Andy Matuschak](https://andymatuschak.org/).  His digital garden is the inspiration of this digital garden. And [How to write good prompts](https://andymatuschak.org/prompts/) is a magic spell to learning anything.
 

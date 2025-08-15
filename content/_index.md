@@ -13,6 +13,6 @@ Or just search whatever you like!
 
 Here are some of my favourite notes:
 
-- 2023.08.17 [[查理芒格的思维格栅]]
+- 2023.08.17 [[quartz/202504110012 查理芒格的思维格栅]]
 
 
