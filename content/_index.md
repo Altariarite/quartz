@@ -1,5 +1,5 @@
 ---
-title: My digital Garden
+title: _index
 enableToc: false
 ---
 

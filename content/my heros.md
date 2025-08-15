@@ -4,7 +4,7 @@ title: "My heros"
 
 [[Share your influencers]]. [[Be a fan first]].
 
-[Philip Wadler](https://homepages.inf.ed.ac.uk/wadler/). [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU&ab_channel=StrangeLoopConference). Is math and programming languages invented, or discovered?
+[Philip Wadler](https://homepages.inf.ed.ac.uk/wadler/). [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU&ab_channel=StrangeLoopConference). Is math and programming languages invented, or discovered? [[202011241825 爱丁堡大学计算机理论的派系]]
 
 [Ian Henry](https://ianthehenry.com/) . His article on [Fibonacci Matrix](https://ianthehenry.com/posts/fibonacci/) is amazing. When you think about the Fibonacci sequence do you think of a swirling vortex of points? You should! Lots of other good and fun stuffs as well. 
 
