@@ -1,7 +1,3 @@
----
-title: _index
-enableToc: false
----
 
 # Welcome! 🌱
 
@@ -13,6 +9,6 @@ Or just search whatever you like!
 
 Here are some of my favourite notes:
 
-- [[202308170012 查理芒格的思维格栅]]]
+- [[202308170012 查理芒格的思维格栅]]
 - [[202508152238 巴菲特之道]]
 
